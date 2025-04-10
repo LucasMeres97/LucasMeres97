@@ -2,7 +2,27 @@
 
 **`Em transição para Data Analyst`**
 
-Me chamo Lucas, tenho 27 anos, sou apaixonado por dados, tecnologia e transformação digital. Comecei minha jornada na área de dados em 2023 e desde então venho explorando o universo do **Analytics**, com o objetivo de me tornar um **Engenheiro de Dados**. Concluí o curso de **Cloud Computing na FIAP** (2023 - início de 2025), o que me deu uma base sólida para lidar com soluções em nuvem e arquiteturas escaláveis. Acredito no poder da informação bem estruturada e no impacto que dados podem ter quando usados com inteligência e propósito.
+---
+
+### ⚡ Sobre mim
+
+- 🎓 Formado em **Cloud Computing pela FIAP** (2023 - início de 2025).
+- 🎯 Atualmente mergulhado em **Analytics**, mas já de olho em **Engenharia de Dados**.
+- 🧠 Sempre aprendendo algo novo — de SQL afiado até cloud & pipelines.
+- 💻 Tech lover, VSCode addicted e fanático por automações que poupam vida.
+- 🧩 Curioso por natureza, adoro quebrar problemas complexos em soluções elegantes.
+- 🏋️‍♂️ Vida fitness, dados e café na veia.
+
+---
+
+### 🛠️ Skills
+
+**Ferramentas & Tecnologias que uso e estudo:**
+
+- 📊 **Data & BI**: Excel, Power BI, SQL (PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib)
+- ☁️ **Cloud**: AWS, GCP (em progresso) – com base sólida vinda da FIAP
+- 💻 **Dev Stuff**: Git, VSCode, APIs, Linux
+- 🌟 Vamos trocar ideia sobre dados, tech, ou só reclamar do tempo? Me chama!
 
 ---
 
