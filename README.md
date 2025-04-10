@@ -1,6 +1,9 @@
-# 👨🏻‍💻 Lucas
+<h1>E aí! Eu sou o Lucas 👋</h1>
 
-**`Em transição para Data Analyst`**
+</p>
+  Apaixonado por dados, tech e tudo que envolve transformar informação em poder 🚀<br>
+  Explorando o universo de <strong>Data Analytics</strong> com os olhos em <strong>Data Engineering</strong> e além 🌌
+</p>
 
 ---
 
