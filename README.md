@@ -26,11 +26,11 @@ Me chamo Lucas, tenho 27 anos, sou apaixonado por dados, tecnologia e transforma
 />
 <img 
     align="left" 
-    alt="Power BI"
-    title="Power BI" 
+    alt="AWS"
+    title="Amazon Web Services" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -42,19 +42,19 @@ Me chamo Lucas, tenho 27 anos, sou apaixonado por dados, tecnologia e transforma
 />
 <img 
     align="left" 
-    alt="Airflow"
-    title="Apache Airflow" 
+    alt="Arduino"
+    title="Arduino" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Azure" 
+    title="Azure"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -66,11 +66,11 @@ Me chamo Lucas, tenho 27 anos, sou apaixonado por dados, tecnologia e transforma
 />
 <img 
     align="left" 
-    alt="AWS"
-    title="Amazon Web Services" 
+    alt="Android"
+    title="Android" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -80,32 +80,27 @@ Me chamo Lucas, tenho 27 anos, sou apaixonado por dados, tecnologia e transforma
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="GCP"
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
+/>
+    
+<br/>
+<br/>
 
-</p>
 
-
----
 
 ### 🌐 Me encontra por aí
 
